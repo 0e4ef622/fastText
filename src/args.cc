@@ -9,6 +9,7 @@
 #include "args.h"
 
 #include <stdlib.h>
+#include <stdint.h>
 
 #include <iostream>
 #include <stdexcept>
